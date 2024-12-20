@@ -1,0 +1,6 @@
+
+consumer/.env.development
+
+node_modules/
+
+producer/.env.development
